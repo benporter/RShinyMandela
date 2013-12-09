@@ -10,7 +10,9 @@ http://glimmer.rstudio.com/benporter/mandela/
 
 =================================================================
 
-Shiny Server expects server.R and ui.R to be in ~/ShinyApps/mandela
+Implementation Notes:
+
+Shiny Server expects the server.R and ui.R files to be in ~/ShinyApps/mandela
 
 The server.R and ui.R code expect a series of directories with the .txt file of the individual speech.  For example, the "We Defy.txt" file should be located at: ~/ShinyApps/mandela/1952/We Defy.txt
 
