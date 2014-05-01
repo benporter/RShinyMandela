@@ -8,6 +8,7 @@ Wordcloud generator using R and Shiny for Mandela's Speeches
 Example here:
 http://glimmer.rstudio.com/benporter/mandela/
 
+<img src="http://github.com/benporter/RShinyMandela/blob/master/Shiny%20-%20Mandela%20Word%20Cloud%20Screen%20Shot.png?raw=true" alt="Mandela Screen Shot" title="Mandela Screen Shot" />
 =================================================================
 
 Implementation Notes:
